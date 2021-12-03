@@ -9,7 +9,9 @@
 ```json
 {
   "DEMO_FOMR_CODE": "128",  // 튜토리얼 폼 번호
+  "EXAM_FORM_CODE": "275", // 시험 폼번호
   "API_URL_BASE": "https://datadev-api.ybmit.com" // 서버 주소
+  
 }
 ```
 
